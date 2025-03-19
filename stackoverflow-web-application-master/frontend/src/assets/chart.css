@@ -1,0 +1,11 @@
+.my-chart {
+  background-color: #2d2d2d;
+  border-radius: 50px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 500px;
+  width: 100%;
+  overflow: hidden;
+  padding: 20px;
+}
